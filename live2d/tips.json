@@ -55,6 +55,12 @@
         {
             "selector": ".hide-live2d",
             "text": ["哼，你会后悔的！"]
+        }
+            "selector": ".switch-live2d",
+            "text": ["变装！"]
+        }
+            "selector": ".save-live2d",
+            "text": ["保持微笑就好了~！"]
         },
         {
             "selector": "#open-poi-player",
