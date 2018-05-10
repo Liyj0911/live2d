@@ -38,7 +38,7 @@
         },
         {
             "selector": ".wechat",
-            "text": ["还是用QQ联系吧~"]
+            "text": ["微信~"]
         },
         {
             "selector": ".guesswhat",
